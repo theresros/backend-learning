@@ -1,5 +1,5 @@
 # backend-learning
-# 🚀 Backend Learning Journey
+# Backend Learning Journey
 
 Welcome to my Backend Development learning repository!
 
